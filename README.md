@@ -20,10 +20,6 @@ Compléter le fichier `twik_scripts.js` pour modifier le code HTML des pages Wik
 
 <br />
 
-**Règles**
-
-<br />
-
 **Consignes**
 * Sur Chrome ou sur Firefox utiliser les outils "Inspect" ou "Inspect Element" (clic droit) pour analyser le code et les styles des pages Wikipedia.
 * Tenir un journal de bord dans le fichier `Readme.md`
