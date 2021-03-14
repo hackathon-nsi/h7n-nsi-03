@@ -9,11 +9,13 @@
 Créer une extension pour le navigateur Chrome qui modifie l'apparence de Wikipedia.
 
 -- **Niveau 1** --
+
 Compléter le fichier `twik_styles.css` pour modifier le CSS des pages Wikipedia.
 
 <br />
 
 -- **Niveau 2** --
+
 Compléter le fichier `twik_scripts.js` pour modifier le code HTML des pages Wikipedia avec du code Javascript.
 
 <br />
